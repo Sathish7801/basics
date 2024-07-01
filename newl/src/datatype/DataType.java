@@ -10,7 +10,7 @@ public class DataType {
 		System.out.println("value1:" +a);
 		System.out.println("value2:" +b);
 		System.out.println("value3:" +c);
-		System.out.println("value4:" +d);
+		System.out.println("value4:"+d);
 		
 		int value = 350;
 		double percentage = value * 0.46;
